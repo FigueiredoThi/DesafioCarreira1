@@ -23,4 +23,6 @@ Quero aprender a configurar e otimizar meu perfil no LinkedIn para atrair oportu
 
 APRENDI
 
-Ao final do módulo 2, espero ter melhorado minhas softskills e hardskills
+Agora, ao final do módulo 2, pude concluir que aprofundei meu conhecimento em lógica de programação, especialmente em como usar funções, tipos de dados e métodos de arrays em JavaScript e TypeScript. Descobri que os tipos utilitários podem realmente simplificar e melhorar meu código.
+
+Também consegui aprimorar minha gestão de tempo, o que me deixou mais produtivo no dia a dia. Além disso, entendi como é importante ter uma postura profissional no trabalho, algo que vou levar comigo em toda a minha carreira.
